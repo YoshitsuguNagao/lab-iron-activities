@@ -1,0 +1,19 @@
+.activity-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.brand-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart-container {
+  display: flex;
+  align-items: center;
+}
+
+.cart-container:hover {
+
+}
